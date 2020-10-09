@@ -1,0 +1,12 @@
+body{
+    color:white;
+    background: pink;
+}
+.name_of_people, #result_person_name, #result_person_accuracy{
+    color: yellow;
+}
+#camera{
+    border: 2px dashed;
+    width: 350px;
+    height: 300px;
+}
